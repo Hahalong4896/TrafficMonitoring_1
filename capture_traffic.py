@@ -12,7 +12,7 @@ from pathlib import Path
 
 # Configuration
 LTA_API_KEY = os.environ.get('LTA_API_KEY', '')
-API_URL = 'http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2'
+API_URL = 'https://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2'
 OUTPUT_DIR = Path('traffic_images')
 
 # Tuas Checkpoint Camera IDs (from LTA DataMall)
