@@ -3,13 +3,13 @@
 Automated traffic monitoring for Singapore Tuas Checkpoint at 5 AM daily.
 
 ## Latest Capture
-- **Last Updated**: 2026-01-21T21:38:19.069009
+- **Last Updated**: 2026-01-21T21:51:17.573132
 - **Total Days Monitored**: 2
-- **Total Captures**: 5
+- **Total Captures**: 6
 
 ## Recent Captures
 
-- **2026-01-21**: 1 capture(s), 3 image(s)
+- **2026-01-21**: 2 capture(s), 6 image(s)
 - **2026-01-20**: 4 capture(s), 12 image(s)
 
 
