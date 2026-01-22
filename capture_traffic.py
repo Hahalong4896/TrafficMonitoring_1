@@ -22,7 +22,7 @@ CHECKPOINT_CAMERA_IDS = [
     '2702',  # Woodlands Checkpoint
     '4703',  # Tuas Second Link
     '4713',  # Tuas Checkpoint
-    '4714',  # AYE (Tuas) - Near West Coast Walk
+ #   '4714',  # AYE (Tuas) - Near West Coast Walk
 ]
 
 def get_traffic_images():
