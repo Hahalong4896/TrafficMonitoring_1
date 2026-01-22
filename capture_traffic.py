@@ -18,7 +18,6 @@ OUTPUT_DIR = Path('traffic_images')
 # Tuas Checkpoint Camera IDs (from LTA DataMall)
 # These are the camera IDs for Tuas area
 TUAS_CAMERA_IDS = [
-
     '2701',  # Woodlands Causeway (Towards Johor)
     '2702',  # Woodlands Checkpoint
     '4703',  # Tuas Checkpoint (towards Malaysia)
@@ -115,8 +114,8 @@ def capture_tuas_cameras():
         print(f"Camera {camera_id}: {location}")
         
         if image_url:
-            # Save image with timestamp
-            filename = f"camera_{camera_id}_{time_str}.jpg"
+            # Save image with date and timestamp
+            filename = f"camera_{camera_id}_{date_folder}_{time_str}.jpg"
             save_path = daily_dir / filename
             
             if download_image(image_url, save_path):
@@ -132,7 +131,7 @@ def capture_tuas_cameras():
             print(f"  No image URL available")
     
     # Save metadata
-    metadata_file = daily_dir / f"metadata_{time_str}.json"
+    metadata_file = daily_dir / f"metadata_{date_folder}_{time_str}.json"
     with open(metadata_file, 'w') as f:
         json.dump(metadata, indent=2, fp=f)
     
