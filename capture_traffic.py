@@ -18,9 +18,11 @@ OUTPUT_DIR = Path('traffic_images')
 # Tuas Checkpoint Camera IDs (from LTA DataMall)
 # These are the camera IDs for Tuas area
 TUAS_CAMERA_IDS = [
+    '2701',  # Woodlands Causeway (Towards Johor)
+    '2702',  # Woodlands Checkpoint
     '4703',  # Tuas Checkpoint (towards Malaysia)
     '4713',  # Tuas Second Link
-    '4714',  # Tuas Second Link (alternative view)
+#    '4714',  # Tuas Second Link (alternative view)
 ]
 
 def get_traffic_images():
