@@ -3,9 +3,9 @@ name: Capture Tuas Traffic
 on:
   schedule:
     # GitHub cron is UTC. 21:00 UTC = 05:00 Singapore (SGT, UTC+8)
-       - cron: '30 8 * * *'  # 4:30 PM SGT
-       - cron: '0 9 * * *'   # 5:00 PM SGT
-       - cron: '30 9 * * *'  # 5:30 PM SGT
+       - cron: '30 08 * * *'  # 4:30 PM SGT
+       - cron: '0 09 * * *'   # 5:00 PM SGT
+       - cron: '30 09 * * *'  # 5:30 PM SGT
        - cron: '0 10 * * *'   # 6:00 PM SGT
        - cron: '30 10 * * *'   # 6:30 PM SGT
        - cron: '0 11 * * *'   # 7:00 PM SGT
