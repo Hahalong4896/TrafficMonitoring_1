@@ -4,23 +4,36 @@ on:
   schedule:
     # GitHub cron is UTC. 21:00 UTC = 05:00 Singapore (SGT, UTC+8)
        - cron: '00 08 * * *'  # 4:00 PM SGT
+       - cron: '15 08 * * *'  # 4:15 PM SGT
        - cron: '30 08 * * *'  # 4:30 PM SGT
+       - cron: '45 08 * * *'  # 4:45 PM SGT
        - cron: '0 09 * * *'   # 5:00 PM SGT
+       - cron: '15 09 * * *'   # 5:15 PM SGT
        - cron: '30 09 * * *'  # 5:30 PM SGT
+       - cron: '45 09 * * *'  # 5:45 PM SGT
        - cron: '0 10 * * *'   # 6:00 PM SGT
+       - cron: '15 10 * * *'   # 6:15 PM SGT
        - cron: '30 10 * * *'   # 6:30 PM SGT
+       - cron: '45 10 * * *'   # 6:45 PM SGT
        - cron: '0 11 * * *'   # 7:00 PM SGT
+       - cron: '15 11 * * *'   # 7:15 PM SGT
        - cron: '30 11 * * *'   # 7:30 PM SGT
+       - cron: '45 11 * * *'   # 7:45 PM SGT
        - cron: '0 12 * * *'   # 8:00 PM SGT
-       - cron: '30 12 * * *'   # 8:30 PM SGT
        - cron: '0 20 * * *'   # 4:00 AM SGT
+       - cron: '15 20 * * *'   # 4:15 AM SGT
        - cron: '30 20 * * *'  # 4:30 AM SGT
+       - cron: '45 20 * * *'  # 4:45 AM SGT
        - cron: '0 21 * * *'   # 5:00 AM SGT
+       - cron: '15 21 * * *'   # 5:15 AM SGT
        - cron: '30 21 * * *'  # 5:30 AM SGT
+       - cron: '45 21 * * *'  # 5:45 AM SGT
        - cron: '0 22 * * *'   # 6:00 AM SGT
+       - cron: '15 22 * * *'   # 6:15 AM SGT
        - cron: '30 22 * * *'   # 6:30 AM SGT
+       - cron: '45 22 * * *'   # 6:45 AM SGT
        - cron: '0 23 * * *'   # 7:00 AM SGT
-       - cron: '30 23 * * *'   # 7:30 AM SGT
+       
        #- cron: '*/5 * * * *' 
   workflow_dispatch:
 permissions:
