@@ -1,23 +1,13 @@
 {
-  "last_updated": "2026-05-24T19:10:23.152389+08:00",
+  "last_updated": "2026-05-24T19:44:40.544362+08:00",
   "timezone": "Asia/Singapore (SGT)",
-  "total_days": 48,
-  "total_captures": 1415,
+  "total_days": 46,
+  "total_captures": 1356,
   "days": [
-    {
-      "date": "2026-04-07",
-      "captures": 30,
-      "images": 56
-    },
-    {
-      "date": "2026-04-08",
-      "captures": 30,
-      "images": 120
-    },
     {
       "date": "2026-04-09",
       "captures": 30,
-      "images": 120
+      "images": 41
     },
     {
       "date": "2026-04-10",
@@ -241,8 +231,8 @@
     },
     {
       "date": "2026-05-24",
-      "captures": 22,
-      "images": 88
+      "captures": 23,
+      "images": 92
     }
   ]
 }
