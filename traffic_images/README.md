@@ -3,13 +3,13 @@
 Automated traffic monitoring for Singapore checkpoints (Tuas & Woodlands).
 
 ## Latest Capture
-- **Last Updated**: 2026-08-22T05:04:22.418187+08:00
+- **Last Updated**: 2026-08-22T05:22:24.951580+08:00
 - **Total Days Monitored**: 134
-- **Total Captures**: 3877
+- **Total Captures**: 3878
 
 ## Recent Captures
 
-- **2026-08-22**: 4 capture(s), 16 image(s)
+- **2026-08-22**: 5 capture(s), 20 image(s)
 - **2026-08-21**: 30 capture(s), 120 image(s)
 - **2026-08-20**: 30 capture(s), 119 image(s)
 - **2026-08-19**: 30 capture(s), 119 image(s)
