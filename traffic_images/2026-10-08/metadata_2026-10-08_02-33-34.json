@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-10-08T02:33:34.375182+08:00",
+  "date": "2026-10-08",
+  "time": "02-33-34",
+  "timezone": "Asia/Singapore (SGT)",
+  "cameras": [
+    {
+      "camera_id": "2701",
+      "location": "Unknown",
+      "filename": "camera_2701_2026-10-08_02-33-34.jpg",
+      "image_url": "https://dm-traffic-camera-itsc.s3.ap-southeast-1.amazonaws.com/2026-10-08/02-30/2701_0220_20261007183021_3D607B.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEoaDmFwLXNvdXRoZWFzdC0xIkYwRAIgcltOXwqv5wwlj4RqN5Y6osxDgxXl1V%2Besk8rohn7ZmgCIEvyGfvvfrLSY%2BY3bmzDB2avTmNMdzeKwC9PwHHf4sYEKvYDCBMQBBoMMzQwNjQ1MzgxMzA0IgzHdzWPFAuYMtcpb4oq0wNUoezIU%2BkZ3g7XKaRBpwNMtFiPvpzNUMGEgVQsqHBAjUhkze60FegCeO7Btx03dVwS%2F6PQaLsTKJAnlBMJweKa1SPhrQXu2eLZJg3d3l6gQj0%2FV%2FPMIvhKQJsDpHoQGGnjpZt0nQkUQHfrHYtIsmO%2B9jNrTzqvv0o6ITYEsaCeV8FJcjbaacLOaDDOMQFRZA0NJ4E5dU7Zsv1%2BtQr37zviFMgoE5Gl3EsWqDFcCVG%2Bp%2BU37Lu%2BftWBdBXykviACRqxtMreczoAW5uOhk39EC1YrWNvfuc7Go3g4p687Kbn7G2easfKSzB6uhacIV7%2FDY%2FWCLDD7%2BfwkcLn1rJpEQHpF0sYDcVy8pEcbCUdPM3bDpZvGYH7OkalXqD5pswh%2BL%2B1dpDeQmFFVCifD8jFlXv81pu2R%2FVZtUcsIb%2BH4H1h7wAHgF6B52NfcdO50ja5vxp2Zn9AaVJJY%2F0CUlkZzDeMxvMlVCihaYnmoM%2Bjdsy4XpXS5gQmax8pXXohLAJpCefUgaewSNSemLV22x1iCizRfVFbKufpaphqLthjTloFjYP%2FA7V7BdCVsuBo0mDE4ukS7d0QyunlmxSHce9T8%2F4NRqflWxlLkba2b6hLedu7olAcKjDSh5rWBjqiAaHG4UZ0dGEl9%2FGDC3dyTyGrs1RJCjPuVE%2B3bZAZ86ePYO%2FDZHSx86jFDSu7CWRoeKL5IM7ej1Pz8uGRBGGXsj9euITsYwMlLWk87xY147W4SvfQ79iYy9L%2FOXpTETT44nXdunk2ZKiUMu7lsisBjnsx1YwOZ7WPeB7Qn0JS57hTkLK0MIv9dyl3LOTikI9apfwC%2Bnk2Z0o17CQ9aQfwTXpr8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261007T183021Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIAU6UAMAS4NZZDZA4L%2F20261007%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Expires=900&X-Amz-Signature=783869b3f26de3c845cc7145dd2155682c97901c8bf23095940e6bbc8fa36932",
+      "latitude": 1.447023728,
+      "longitude": 103.7716543
+    },
+    {
+      "camera_id": "2702",
+      "location": "Unknown",
+      "filename": "camera_2702_2026-10-08_02-33-34.jpg",
+      "image_url": "https://dm-traffic-camera-itsc.s3.ap-southeast-1.amazonaws.com/2026-10-08/02-30/2702_0221_20261007183021_7951A1.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEoaDmFwLXNvdXRoZWFzdC0xIkYwRAIgcltOXwqv5wwlj4RqN5Y6osxDgxXl1V%2Besk8rohn7ZmgCIEvyGfvvfrLSY%2BY3bmzDB2avTmNMdzeKwC9PwHHf4sYEKvYDCBMQBBoMMzQwNjQ1MzgxMzA0IgzHdzWPFAuYMtcpb4oq0wNUoezIU%2BkZ3g7XKaRBpwNMtFiPvpzNUMGEgVQsqHBAjUhkze60FegCeO7Btx03dVwS%2F6PQaLsTKJAnlBMJweKa1SPhrQXu2eLZJg3d3l6gQj0%2FV%2FPMIvhKQJsDpHoQGGnjpZt0nQkUQHfrHYtIsmO%2B9jNrTzqvv0o6ITYEsaCeV8FJcjbaacLOaDDOMQFRZA0NJ4E5dU7Zsv1%2BtQr37zviFMgoE5Gl3EsWqDFcCVG%2Bp%2BU37Lu%2BftWBdBXykviACRqxtMreczoAW5uOhk39EC1YrWNvfuc7Go3g4p687Kbn7G2easfKSzB6uhacIV7%2FDY%2FWCLDD7%2BfwkcLn1rJpEQHpF0sYDcVy8pEcbCUdPM3bDpZvGYH7OkalXqD5pswh%2BL%2B1dpDeQmFFVCifD8jFlXv81pu2R%2FVZtUcsIb%2BH4H1h7wAHgF6B52NfcdO50ja5vxp2Zn9AaVJJY%2F0CUlkZzDeMxvMlVCihaYnmoM%2Bjdsy4XpXS5gQmax8pXXohLAJpCefUgaewSNSemLV22x1iCizRfVFbKufpaphqLthjTloFjYP%2FA7V7BdCVsuBo0mDE4ukS7d0QyunlmxSHce9T8%2F4NRqflWxlLkba2b6hLedu7olAcKjDSh5rWBjqiAaHG4UZ0dGEl9%2FGDC3dyTyGrs1RJCjPuVE%2B3bZAZ86ePYO%2FDZHSx86jFDSu7CWRoeKL5IM7ej1Pz8uGRBGGXsj9euITsYwMlLWk87xY147W4SvfQ79iYy9L%2FOXpTETT44nXdunk2ZKiUMu7lsisBjnsx1YwOZ7WPeB7Qn0JS57hTkLK0MIv9dyl3LOTikI9apfwC%2Bnk2Z0o17CQ9aQfwTXpr8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261007T183021Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIAU6UAMAS4NZZDZA4L%2F20261007%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Expires=900&X-Amz-Signature=76836e93ad268133da3be416124171ce6dd1d9c4f272ac36d8a0a9617c0f01f6",
+      "latitude": 1.445554109,
+      "longitude": 103.7683397
+    },
+    {
+      "camera_id": "4703",
+      "location": "Unknown",
+      "filename": "camera_4703_2026-10-08_02-33-34.jpg",
+      "image_url": "https://dm-traffic-camera-itsc.s3.ap-southeast-1.amazonaws.com/2026-10-08/02-30/4703_0220_20261007183022_7A7B7C.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEoaDmFwLXNvdXRoZWFzdC0xIkYwRAIgcltOXwqv5wwlj4RqN5Y6osxDgxXl1V%2Besk8rohn7ZmgCIEvyGfvvfrLSY%2BY3bmzDB2avTmNMdzeKwC9PwHHf4sYEKvYDCBMQBBoMMzQwNjQ1MzgxMzA0IgzHdzWPFAuYMtcpb4oq0wNUoezIU%2BkZ3g7XKaRBpwNMtFiPvpzNUMGEgVQsqHBAjUhkze60FegCeO7Btx03dVwS%2F6PQaLsTKJAnlBMJweKa1SPhrQXu2eLZJg3d3l6gQj0%2FV%2FPMIvhKQJsDpHoQGGnjpZt0nQkUQHfrHYtIsmO%2B9jNrTzqvv0o6ITYEsaCeV8FJcjbaacLOaDDOMQFRZA0NJ4E5dU7Zsv1%2BtQr37zviFMgoE5Gl3EsWqDFcCVG%2Bp%2BU37Lu%2BftWBdBXykviACRqxtMreczoAW5uOhk39EC1YrWNvfuc7Go3g4p687Kbn7G2easfKSzB6uhacIV7%2FDY%2FWCLDD7%2BfwkcLn1rJpEQHpF0sYDcVy8pEcbCUdPM3bDpZvGYH7OkalXqD5pswh%2BL%2B1dpDeQmFFVCifD8jFlXv81pu2R%2FVZtUcsIb%2BH4H1h7wAHgF6B52NfcdO50ja5vxp2Zn9AaVJJY%2F0CUlkZzDeMxvMlVCihaYnmoM%2Bjdsy4XpXS5gQmax8pXXohLAJpCefUgaewSNSemLV22x1iCizRfVFbKufpaphqLthjTloFjYP%2FA7V7BdCVsuBo0mDE4ukS7d0QyunlmxSHce9T8%2F4NRqflWxlLkba2b6hLedu7olAcKjDSh5rWBjqiAaHG4UZ0dGEl9%2FGDC3dyTyGrs1RJCjPuVE%2B3bZAZ86ePYO%2FDZHSx86jFDSu7CWRoeKL5IM7ej1Pz8uGRBGGXsj9euITsYwMlLWk87xY147W4SvfQ79iYy9L%2FOXpTETT44nXdunk2ZKiUMu7lsisBjnsx1YwOZ7WPeB7Qn0JS57hTkLK0MIv9dyl3LOTikI9apfwC%2Bnk2Z0o17CQ9aQfwTXpr8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261007T183022Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIAU6UAMAS4NZZDZA4L%2F20261007%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Expires=900&X-Amz-Signature=103fd76e6a92b7e01522239c8aa0ea68e147109eb40befec4339819544f31289",
+      "latitude": 1.348697862,
+      "longitude": 103.6350413
+    },
+    {
+      "camera_id": "4713",
+      "location": "Unknown",
+      "filename": "camera_4713_2026-10-08_02-33-34.jpg",
+      "image_url": "https://dm-traffic-camera-itsc.s3.ap-southeast-1.amazonaws.com/2026-10-08/02-30/4713_0220_20261007183021_0EA117.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEoaDmFwLXNvdXRoZWFzdC0xIkYwRAIgcltOXwqv5wwlj4RqN5Y6osxDgxXl1V%2Besk8rohn7ZmgCIEvyGfvvfrLSY%2BY3bmzDB2avTmNMdzeKwC9PwHHf4sYEKvYDCBMQBBoMMzQwNjQ1MzgxMzA0IgzHdzWPFAuYMtcpb4oq0wNUoezIU%2BkZ3g7XKaRBpwNMtFiPvpzNUMGEgVQsqHBAjUhkze60FegCeO7Btx03dVwS%2F6PQaLsTKJAnlBMJweKa1SPhrQXu2eLZJg3d3l6gQj0%2FV%2FPMIvhKQJsDpHoQGGnjpZt0nQkUQHfrHYtIsmO%2B9jNrTzqvv0o6ITYEsaCeV8FJcjbaacLOaDDOMQFRZA0NJ4E5dU7Zsv1%2BtQr37zviFMgoE5Gl3EsWqDFcCVG%2Bp%2BU37Lu%2BftWBdBXykviACRqxtMreczoAW5uOhk39EC1YrWNvfuc7Go3g4p687Kbn7G2easfKSzB6uhacIV7%2FDY%2FWCLDD7%2BfwkcLn1rJpEQHpF0sYDcVy8pEcbCUdPM3bDpZvGYH7OkalXqD5pswh%2BL%2B1dpDeQmFFVCifD8jFlXv81pu2R%2FVZtUcsIb%2BH4H1h7wAHgF6B52NfcdO50ja5vxp2Zn9AaVJJY%2F0CUlkZzDeMxvMlVCihaYnmoM%2Bjdsy4XpXS5gQmax8pXXohLAJpCefUgaewSNSemLV22x1iCizRfVFbKufpaphqLthjTloFjYP%2FA7V7BdCVsuBo0mDE4ukS7d0QyunlmxSHce9T8%2F4NRqflWxlLkba2b6hLedu7olAcKjDSh5rWBjqiAaHG4UZ0dGEl9%2FGDC3dyTyGrs1RJCjPuVE%2B3bZAZ86ePYO%2FDZHSx86jFDSu7CWRoeKL5IM7ej1Pz8uGRBGGXsj9euITsYwMlLWk87xY147W4SvfQ79iYy9L%2FOXpTETT44nXdunk2ZKiUMu7lsisBjnsx1YwOZ7WPeB7Qn0JS57hTkLK0MIv9dyl3LOTikI9apfwC%2Bnk2Z0o17CQ9aQfwTXpr8A%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20261007T183021Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIAU6UAMAS4NZZDZA4L%2F20261007%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Expires=900&X-Amz-Signature=969e143aab1c8f2e9288fe2f8625869a3f7549d74d3f6fa452a93f3b23b968d2",
+      "latitude": 1.347645829,
+      "longitude": 103.6366955
+    }
+  ]
+}
